@@ -50,41 +50,41 @@
 
 1) 아두이노 데이터 모듈 이용 음성 데이터 수집
 
-<img src='/img/voicedata1.PNG' width='400'>
-<img src='/img/voicedata3.PNG' width='400'>
-<img src='/img/voicedata2.PNG' width='400'>
-<img src='/img/voicedata4.PNG' width='400'>
+<img src='/img/voicedata1.png' width='400'>
+<img src='/img/voicedata3.png' width='400'>
+<img src='/img/voicedata2.png' width='400'>
+<img src='/img/voicedata4.png' width='400'>
 
 - 샘플링 속도는 ADC Free running mode일때 대략 100kHz로, 이를 FFT하게되면 이론적으로 샘플링 속도의 반, 50kHz까지 읽을 수 있다. FFT후 샘플 개수는 128개로, 대략 막대기 하나 하나 간격이 약390Hz
 
 
 2) 데이터 수정 및 확보
 
-<img src='/img/voicedata7.PNG' width='400'>
+<img src='/img/voicedata7.png' width='400'>
 
-<img src='/img/voicedata5.PNG' width='300'>
+<img src='/img/voicedata5.png' width='300'>
 
 - 시간, 높낮이 조정하여 데이터 개수 확보
 
 3) 데이터 전처리
 
-<img src='/img/voicedata6.PNG' width='300'>
+<img src='/img/voicedata6.png' width='300'>
 
-<img src='/img/voicedata8.PNG' width='200'>
+<img src='/img/voicedata8.png' width='200'>
 
 4) Tensorflow 사용, 데이터 학습
 
-<img src='/img/voicedata9.PNG' width='400'>
+<img src='/img/voicedata9.png' width='400'>
 
-<img src='/img/voicedata10.PNG' width='400'>
+<img src='/img/voicedata10.png' width='400'>
 
-<img src='/img/voicedata11.PNG' width='400'>
+<img src='/img/voicedata11.png' width='400'>
 
-<img src='/img/voicedata12.PNG' width='400'>
+<img src='/img/voicedata12.png' width='400'>
 
 5) 테스트
 
-<img src='/img/voicedata13.PNG' width='400'>
+<img src='/img/voicedata13.png' width='400'>
 
 #### 2.2 출력 파일(오디오)
 
