@@ -35,7 +35,7 @@
 
 #### 1.6 브레드보드 뷰
 
-<img src='/img/breadboard.PNG' width='400'>
+<img src='/img/breadboard.png' width='400'>
 
 #### 1.7 사용 기술
 
